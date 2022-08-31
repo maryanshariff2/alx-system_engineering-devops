@@ -1,5 +1,6 @@
-1.0-current_working_directory- script that prints the absolute path name of the current working directory.
-2. 1-listit -Display the contents list of your current directory.
-3. 2-bring_me_home - script that changes the working directory to the user’s home directory.
-4. 3-listfiles - Display current directory contents in a long format.
-5. 4-listmorefiles -Display current directory contents, including hidden files 
+0.0-current_working_directory- script that prints the absolute path name of the current working directory.
+1. 1-listit -Display the contents list of your current directory.
+2. 2-bring_me_home - script that changes the working directory to the user’s home directory.
+3. 3-listfiles - Display current directory contents in a long format.
+4. 4-listmorefiles -Display current directory contents, including hidden files
+5. 5-listfilesdigitonly- Display current directory contents.  
